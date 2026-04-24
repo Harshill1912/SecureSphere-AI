@@ -1,7 +1,16 @@
 fastapi
-uvicorn
+uvicorn[standard]
 langchain
 langchain-community
+langchain-ollama
+langchain-chroma
 chromadb
 pypdf
 python-multipart
+sqlalchemy
+python-dotenv
+slowapi
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
